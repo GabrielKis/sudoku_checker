@@ -20,7 +20,10 @@ O script em python `separate_quizzes_solutions.py` realiza uma separação dos d
 
 ## Vídeo
 
-TODO: Colocar Link para vídeo
+Link para um vídeo demonstrando a utilização do código:
+https://drive.google.com/file/d/18FAmV_bjDcrFzWw8P5i9aWRfdTOUOOGz/view?usp=sharing
+
+É necessário ter acesso à uma conta da Unicamp para visualização.
 
 ## Melhoria
 
